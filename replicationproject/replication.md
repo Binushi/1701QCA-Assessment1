@@ -26,33 +26,21 @@ This project is related to mine because (insert reasons here).
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+*Before this reading I had no idea, what affordances were. This reading helped understand what affordances are and brought to my attention the amount of thought that goes into simple things. The reading helped me see simple design elements can have a huge impact. For example, the sink, although the action of pressing the cap of the drain is simple, people don’t think of that as a first instinct and also your clean hands have to touch the dirty water to turn drain the water. I can apply the ideas from this reading to my project, I need to make sure my design is useable for everyone, and make sure that my first instinct on how to use it is the same as other peoples. I can do this by asking other people to use it without any instructions. I also need to look into the affordances my project supplies. A question I have from the reading is what can be changed to make affordances easier to understand.*
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
-
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+*Before this reading I believed that micro interactions did not hugely affect an overall product/ application. This reading has brought the impotence of micro interactions to my attention.  Now I can see how much of a difference micro interaction make. I can also now see how much I use micro interactions in a day without even knowing. I can incorporate this into my project. Having good micro interaction can improve my overall useability. One question I have after this reading is what would happen if some of there micro interaction were changed, for example if toasters did multiple things not just toast would this effect the toaster in a positive or negative way. Would it increase useability or not.   *
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
-
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+*Before this reading I was not clear on the difference between designer and developer. Now I know that the designer makes make nontechnical decisions whereas the developer implement those decisions. This reading also helped me see the importance of prototyping and how it can help to see any issues. This can be used in my project. One question I have after this reading was are there different ways of creating prototypes. *
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
-
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
 
 
 ## Interaction flowchart ##
@@ -77,10 +65,11 @@ This project is related to mine because (insert reasons here).
 *Complete the following information.*
 
 ### Project title ###
+* Saxaphone *
 
 ### Project description ###
 
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
+*My Project is based of the micro bit Guitar project but has been adapted to be a saxophone. The Saxophone has been designed to play different notes depending on the angle the saxophone is held at, the amount of light the micro bit and if the user is touching a pin. I have designed this to be a children’s toy as it is simple but can provide a lot of entertainment for a child.*
 
 ### Showcase image ###
 
