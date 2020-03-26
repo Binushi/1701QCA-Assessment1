@@ -35,7 +35,9 @@ basic.forever(function () {
     }
 })
 
-![Image](missingimage.png)
+![Image](EX1.jpg)
+![Image](EX1P1.jpg)
+![Image](EX1P2.jpg)
 
 There are 3 buttons, one for the red, one for the blue and one for the red. When you press the button the amout of that color shown on the RGB LED changed.
 
