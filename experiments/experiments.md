@@ -69,7 +69,8 @@ basic.forever(function () {
 })
 
 
-![Image](missingimage.png)
+![Image](2a.png)
+![Image](2b.png)
 
 There is a dile on micro bit when you  turn it to the righ the brightness goes up when it turn it to the right the brightness goes down. 
 
@@ -106,7 +107,8 @@ basic.forever(function () {
     }
 })
 
-![Image](missingimage.png)
+![Image](3a.png)
+![Image](3b.png)
 
 depending on how much light is on the phototransistor a sun or a moon will be displayed on the micro bit.
 
@@ -150,7 +152,10 @@ basic.forever(function () {
 }) 
 
 
-![Image](missingimage.png)
+![Image](4a.png)
+![Image](4b.png)
+![Image](4c.png)
+![Image](4d.png)
 
 (Insert a caption here)
 
@@ -188,7 +193,9 @@ input.onButtonPressed(Button.AB, function () {
 })
 
 
-![Image](missingimage.png)
+![Image](5a.png)
+![Image](5b.png)
+![Image](5c.png)
 
 The micro bit drsplays the words hellow world
 
