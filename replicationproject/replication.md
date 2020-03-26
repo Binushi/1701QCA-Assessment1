@@ -15,7 +15,7 @@
 
 (https://artiphon.com/products/instrument-1?variant=16105333522466)
 
-![Image](Pic 1.png)
+![Image](Pic1.png)
 
 This is releeated to my project beacuse, it is using different actions to manipulate sound.
 
