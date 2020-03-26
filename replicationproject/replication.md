@@ -69,20 +69,18 @@ This project also allow to to manliplate sound with interactions. This poject al
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
-Before this reading I had no idea what affordances were. This reading helped me to understand what affordances are and brought to my attention the amount of thought that goes into simple things. The reading helped me see simple design elements can have a huge impact. For example, in the sink, although the action of pressing the cap of the drain is simple, people don’t think of that as a first instinct and also your clean hands have to touch the dirty water to turn drain the water. (SENTENCE NEEDS REWORDING) I can apply the ideas from this reading to my project. For example, I need to make sure my design is useable for everyone, and make sure that my first instinct on how to use it is the same as other people’s. I can do this by asking other people to use it without any instructions. I also need to look into the affordances my project supplies. A question I have from the reading is what can be changed to make affordances easier to understand?     
+Before this reading I had no idea what affordances were. This reading helped me to understand what affordances are and brought to my attention the amount of thought that goes into simple things. The reading helped me see simple design elements can have a huge impact on the overall design. For example, the sink that was talked about in the reading, although the action of pressing the cap of the drain is simple, people don’t think of that as a first instinct and also your clean hands have to touch the dirty water to turn drain the water. I can apply the ideas from this reading to my project. For example, I need to make sure my design is useable for everyone, and make sure that my first instinct on how to use it is the same as other people’s. I can do this by asking other people to use it without any instructions. I also need to look into the affordances my project supplies. A question I have from the reading is what can be changed to make affordances easier to understand?         
 
 
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
-Before this reading I believed that micro interactions did not hugely affect an overall product/ application. This reading has brought the impotence of micro interactions to my attention.  Now I can see how much of a difference micro interaction makes. I can also now see how much I use micro interactions in a day without even knowing and I can incorporate this into my project. Having good micro interaction can improve my overall useability. One question I have after this reading is what would happen if some of the micro interactions were changed, for example, if toasters did multiple things, not just toast. Would this affect the toaster in a positive or negative way? Would it increase useability or not?   
+Before this reading I believed that micro interactions did not hugely affect an overall product/ application. This reading has brought the impotence of micro interactions to my attention.  Now I can see how much of a difference micro interaction makes. I can also now see how much I use micro interactions in a day without even knowing and I can incorporate this into my project. Having good micro interaction can improve my overall useability. One question I have after this reading is what would happen if some of the micro interactions were changed, for example, if toasters did multiple things, not just toast. Would this affect the toaster in a positive or negative way? Would it increase useability or not?       
 
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
-Before this reading I was not clear on the difference between designer and developer. Now I know that the designer makes make nontechnical decisions whereas the developer implements those decisions. This reading also helped me see the importance of prototyping and how it can help to reveal any issues. This can be used in my project. One question I have after this reading was are there different ways of creating prototypes? 
-
-
+Before this reading I was not clear on the difference between designer and developer. Now I know that the designer makes make nontechnical decisions whereas the developer implements those decisions. This reading also helped me see the importance of prototyping and how it can help to reveal any issues. This can be used in my project. One question I have after this reading was are there different ways of creating prototypes?  
 
 
 ## Interaction flowchart ##
