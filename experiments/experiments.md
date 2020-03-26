@@ -156,14 +156,13 @@ basic.forever(function () {
 ![Image](4b.png)
 ![Image](4c.png)
 ![Image](4d.png)
-
-(Insert a caption here)
+when you press switch 1 a number will be displayed on the led matrix which coralates to the charge of the copasitor. when switch 2 is pressed it resets the charge. the led's light up when the charge reaches 1, 2, 3, and 4.
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was how to use potentimeter and resisters.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as traffics.
 
 ### Experiment name ###
 
