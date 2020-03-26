@@ -139,9 +139,10 @@ This is the final code - when the A button is pressed the it plays a note. You c
 
 ### Additional view ###
 
-*Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
+This is my project being used as an instument to practice playing music isnsted of a kids toy. It would be useful for highschool students.
 
-![Image](missingimage.png)
+![Image](IMG_3746.HEIC)
+![Image](IMG_3747.HEIC)
 
 ### Reflection ###
 
