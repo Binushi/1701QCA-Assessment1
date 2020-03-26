@@ -1,6 +1,5 @@
 # Assessment 1: Replication project
-
-*Fill out the following workbook with information relevant to your project.*
+Saxaphone
 
 *Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
 
@@ -93,13 +92,32 @@ Before this reading I was not clear on the difference between designer and devel
 
 ## Process documentation
 
-*In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
+![Image](1.png)
+First, I made a template which was a simple outline of a saxophone. the oroginal project was a gutar i decided to change it to a saxaphone. Then I traced it twice onto a piece of cardboard and it out with a box cutter. The thickness of the cardboard made it difficult to cut and I ended up going over both sides with the box cutter. 
 
-*This should have quite a lot of information!*
+![Image](2.png)
+Then, I glued the two pieces together with a glue stick and cut off the excess.I did this to make the body stronger and more substantial.
 
-*There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
+![Image](3a.png)
+![Image](3b.png)
+Next, I covered the edges with paper. I did this by cutting pieces of paper and gluing them around the edges of the cardboard using craft glue. Then, I added a piece of paper to the top and bottom to make it look neater and smoother. 
 
-![Image](missingimage.png)
+![Image](4.png)
+I then painted it gold and let it dry overnight.I did this to make it look more like a Saxphone and to make it look like a finished project.
+
+![Image](5a.png)
+![Image](5b.png)
+![Image](5c.png)
+When it had dried, I connected the micro bit to my computer and put in the block code above. I connected the battery pack to the micro pit and attached a crocodile clip to 0 pin and the other end to the tip of an earphone jack. Then I connected another crocodile clip from the ground pin to the base of the headphone jack, placed it where I wanted it to go and taped in down. I used double sided tape on the battery pack and the micro bit and I used masking tape on the other side.
+
+![Image](6a.png)
+![Image](6b.png)
+Following the tutorial, I the put this code in and then a pressed the A button and moves the saxophone it played a note the note played is based on the angle I held the saxophone and the amount of light on the micro bit changed that was played. Also touching a pin changes the not too.
+
+![Image](7.png)
+This is the final code - when the A button is pressed the it plays a note. You can manipulate the note that is played by changing the angle you hold the saxophone or covering the micro bit or touching the pins.
+![Image](8a.png)
+![Image](8b.png)
 
 *Include screenshots of the code you have used.*
 
