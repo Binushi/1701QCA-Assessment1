@@ -118,7 +118,8 @@ Before this reading I was not clear on the difference between designer and devel
 
 *Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
 
-![Image](missingimage.png)
+![Image](IMG_3742.HEIC)
+![Image](IMG_3743.HEIC)
 
 ### Additional view ###
 
