@@ -24,7 +24,7 @@ This is releeated to my project beacuse, it is using different actions to manipu
 
 (https://reactable.com/)
 
-![Image](Pic 2.png)
+![Image](Pic2.png)
 
 This project is related to mine because, simmilarly to the prevouse one it is using different actions to manipulate sound. This one also includes elements that allow it to be more toy like.
 
@@ -33,7 +33,7 @@ This project is related to mine because, simmilarly to the prevouse one it is us
 
 (https://roli.com/products/seaboard/rise-49)
 
-![Image](Pic 3.png)
+![Image](Pic3.png)
 
 This project also allow to to manliplate sound with interactions. This poject also allows to record sound, this could be i could extent my project.
 
@@ -42,7 +42,7 @@ This project also allow to to manliplate sound with interactions. This poject al
 
 (https://alphasphere.com/)
 
-![Image](pic 4.png)
+![Image](Pic4.png)
 
 This project also allow to to manliplate sound with action but in a really unusual way. The ball shape creates many ways to interect with it. It has be designed to the user will learn new and interesting ways to use the project. This could be somthing for me to incoperate in my project. It also has IPhone connectivity, that could be a further way to extend mt project.
 
@@ -51,7 +51,7 @@ This project also allow to to manliplate sound with action but in a really unusu
 
 (http://getjambe.com/)
 
-![Image](Pic 5.png)
+![Image](Pic5.png)
 
 This project is a drum vertion of my project.The Jambé is a multi-faceted pad that is capable of reproducing several unique percussion sounds. 
 
@@ -60,7 +60,7 @@ This project is a drum vertion of my project.The Jambé is a multi-faceted pad t
 
 (hhttps://roli.com/products/blocks/songmaker-kit)
 
-![Image](Pic 7.png)
+![Image](Pic7.png)
 This project also allow to to manliplate sound with interactions. This poject also allows to record sound and has IPhone connectivity, this could be i could extent my project. this project shows how i could develop my project designed as a childerens toy coud be developed and created to adult usses.
 
 ## Reading reflections ##
@@ -70,19 +70,18 @@ This project also allow to to manliplate sound with interactions. This poject al
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
-*Before this reading I had no idea, what affordances were. This reading helped understand what affordances are and brought to my attention the amount of thought that goes into simple things. The reading helped me see simple design elements can have a huge impact. For example, the sink, although the action of pressing the cap of the drain is simple, people don’t think of that as a first instinct and also your clean hands have to touch the dirty water to turn drain the water. I can apply the ideas from this reading to my project, I need to make sure my design is useable for everyone, and make sure that my first instinct on how to use it is the same as other peoples. I can do this by asking other people to use it without any instructions. I also need to look into the affordances my project supplies. A question I have from the reading is what can be changed to make affordances easier to understand.*
+Before this reading I had no idea what affordances were. This reading helped me to understand what affordances are and brought to my attention the amount of thought that goes into simple things. The reading helped me see simple design elements can have a huge impact. For example, in the sink, although the action of pressing the cap of the drain is simple, people don’t think of that as a first instinct and also your clean hands have to touch the dirty water to turn drain the water. (SENTENCE NEEDS REWORDING) I can apply the ideas from this reading to my project. For example, I need to make sure my design is useable for everyone, and make sure that my first instinct on how to use it is the same as other people’s. I can do this by asking other people to use it without any instructions. I also need to look into the affordances my project supplies. A question I have from the reading is what can be changed to make affordances easier to understand?     
 
 
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
-*Before this reading I believed that micro interactions did not hugely affect an overall product/ application. This reading has brought the impotence of micro interactions to my attention.  Now I can see how much of a difference micro interaction make. I can also now see how much I use micro interactions in a day without even knowing. I can incorporate this into my project. Having good micro interaction can improve my overall useability. One question I have after this reading is what would happen if some of there micro interaction were changed, for example if toasters did multiple things not just toast would this effect the toaster in a positive or negative way. Would it increase useability or not.   *
-
+Before this reading I believed that micro interactions did not hugely affect an overall product/ application. This reading has brought the impotence of micro interactions to my attention.  Now I can see how much of a difference micro interaction makes. I can also now see how much I use micro interactions in a day without even knowing and I can incorporate this into my project. Having good micro interaction can improve my overall useability. One question I have after this reading is what would happen if some of the micro interactions were changed, for example, if toasters did multiple things, not just toast. Would this affect the toaster in a positive or negative way? Would it increase useability or not?   
 
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
-*Before this reading I was not clear on the difference between designer and developer. Now I know that the designer makes make nontechnical decisions whereas the developer implement those decisions. This reading also helped me see the importance of prototyping and how it can help to see any issues. This can be used in my project. One question I have after this reading was are there different ways of creating prototypes. *
+Before this reading I was not clear on the difference between designer and developer. Now I know that the designer makes make nontechnical decisions whereas the developer implements those decisions. This reading also helped me see the importance of prototyping and how it can help to reveal any issues. This can be used in my project. One question I have after this reading was are there different ways of creating prototypes? 
 
 
 
@@ -129,13 +128,9 @@ This project also allow to to manliplate sound with interactions. This poject al
 
 ### Reflection ###
 
-*Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
+I am happy with the way my project turned out. I was able to successfully turn the guitar project into a saxophone and get all the components working. I could have improved the look of the saxophone by hiding the wires and I also could have spent more time during the building of the saxophone to make things neater. I also could have changed the code to tailor it more to a saxophone. Also, my theory could have been developed more. 
 
+Looking at the related projects really helped me to turn the guitar into a saxophone. It was also helpful to see projects similar to mine being done on an industry level. It allowed me to see how I could take my project further. The readings also helped me in the process of making the saxophone. It allowed me to look further than just making it. It helped me think about how this would actually be used, what kind of affordances it created and how to make sure it is useable for everyone. Also it made me look at more project in more detail, for example, I took notice of all the micro interaction. 
 
-*What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
+An interesting extension to the program might be using different speakers and maybe different sounds to make it more like a saxophone or making different instruments like a violin or Cheol and incorporating a bow. 
 
-
-*What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
-
-
-*What might be an interesting extension of this project? In what other contexts might this project be used?*
