@@ -153,5 +153,6 @@ Looking at the related projects really helped me to turn the guitar into a saxop
 An interesting extension to the program might be using different speakers and maybe different sounds to make it more like a saxophone or making different instruments like a violin or Cheol and incorporating a bow. 
 
 ### video ###
-<video src="replicationproject.3gp" width="320" height="200" controls preload></video>
+![video](replicationproject.3gp)
+
 
