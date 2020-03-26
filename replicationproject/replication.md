@@ -15,7 +15,7 @@
 
 (https://artiphon.com/products/instrument-1?variant=16105333522466)
 
-![Image](pic 1.png)
+![Image](Pic 1.png)
 
 This is releeated to my project beacuse, it is using different actions to manipulate sound.
 
@@ -24,7 +24,7 @@ This is releeated to my project beacuse, it is using different actions to manipu
 
 (https://reactable.com/)
 
-![Image](pic 2.png)
+![Image](Pic 2.png)
 
 This project is related to mine because, simmilarly to the prevouse one it is using different actions to manipulate sound. This one also includes elements that allow it to be more toy like.
 
@@ -33,7 +33,7 @@ This project is related to mine because, simmilarly to the prevouse one it is us
 
 (https://roli.com/products/seaboard/rise-49)
 
-![Image](pic 3.png)
+![Image](Pic 3.png)
 
 This project also allow to to manliplate sound with interactions. This poject also allows to record sound, this could be i could extent my project.
 
@@ -51,7 +51,7 @@ This project also allow to to manliplate sound with action but in a really unusu
 
 (http://getjambe.com/)
 
-![Image](pic 5.png)
+![Image](Pic 5.png)
 
 This project is a drum vertion of my project.The Jambé is a multi-faceted pad that is capable of reproducing several unique percussion sounds. 
 
@@ -60,7 +60,7 @@ This project is a drum vertion of my project.The Jambé is a multi-faceted pad t
 
 (hhttps://roli.com/products/blocks/songmaker-kit)
 
-![Image](pic 6.png)
+![Image](Pic 7.png)
 This project also allow to to manliplate sound with interactions. This poject also allows to record sound and has IPhone connectivity, this could be i could extent my project. this project shows how i could develop my project designed as a childerens toy coud be developed and created to adult usses.
 
 ## Reading reflections ##
