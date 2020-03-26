@@ -11,13 +11,57 @@
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
-(Insert name of project)
+(Artiphon INSTRUMENT 1)
 
-(Insert URL to project)
+(https://artiphon.com/products/instrument-1?variant=16105333522466)
 
-![Image](missingimage.png)
+![Image](pic 1.png)
 
-This project is related to mine because (insert reasons here).
+This is releeated to my project beacuse, it is using different actions to manipulate sound.
+
+### Related project 2 ###
+(Reactable)
+
+(https://reactable.com/)
+
+![Image](pic 2.png)
+
+This project is related to mine because, simmilarly to the prevouse one it is using different actions to manipulate sound. This one also includes elements that allow it to be more toy like.
+
+### Related project 3 ###
+(Seaboard RISE)
+
+(https://roli.com/products/seaboard/rise-49)
+
+![Image](pic 3.png)
+
+This project also allow to to manliplate sound with interactions. This poject also allows to record sound, this could be i could extent my project.
+
+### Related project 4 ###
+(AlphaSphere)
+
+(https://alphasphere.com/)
+
+![Image](pic 4.png)
+
+This project also allow to to manliplate sound with action but in a really unusual way. The ball shape creates many ways to interect with it. It has be designed to the user will learn new and interesting ways to use the project. This could be somthing for me to incoperate in my project. It also has IPhone connectivity, that could be a further way to extend mt project.
+
+### Related project 5 ###
+(Jambé)
+
+(http://getjambe.com/)
+
+![Image](pic 5.png)
+
+This project is a drum vertion of my project.The Jambé is a multi-faceted pad that is capable of reproducing several unique percussion sounds. 
+
+### Related project 6 ###
+(ROLI Songmaker kit)
+
+(hhttps://roli.com/products/blocks/songmaker-kit)
+
+![Image](pic 6.png)
+This project also allow to to manliplate sound with interactions. This poject also allows to record sound and has IPhone connectivity, this could be i could extent my project. this project shows how i could develop my project designed as a childerens toy coud be developed and created to adult usses.
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
